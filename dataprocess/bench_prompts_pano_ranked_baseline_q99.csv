@@ -1,0 +1,289 @@
+rank,pano_id,best_yaw,lng,lat,best_view_path,best_view_score,prompt_best,num_views,num_views_above_thresh
+1,L93lz-apm9d7ThB9ldi6YQ,90,9.257613654,45.45434569,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\L93lz-apm9d7ThB9ldi6YQ_090.jpg,0.25830078,bench near the curb,4,1
+2,-8hTRznWQS2FET3PIiz99A,90,9.18271,45.45435139,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\-8hTRznWQS2FET3PIiz99A_090.jpg,0.24926758,street benches,4,2
+3,jrce2IWihlk-T4v73xSvGQ,270,9.1267941,45.4749219,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\jrce2IWihlk-T4v73xSvGQ_270.jpg,0.24511719,public bench,4,1
+4,aD2j2wCCnw4tnnM_y4aOYQ,270,9.222209123,45.44105568,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\aD2j2wCCnw4tnnM_y4aOYQ_270.jpg,0.24450684,public bench,4,1
+5,elqG5pwU4uxHCpETZgrbiQ,270,9.151721328,45.45156953,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\elqG5pwU4uxHCpETZgrbiQ_270.jpg,0.24255371,public bench,4,1
+6,6jMgDoUo0OX-_1WJ0481hw,90,9.1758567,45.5206498,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\6jMgDoUo0OX-_1WJ0481hw_090.jpg,0.24230957,bench near the curb,4,1
+7,QzMd74_7Yeff6YgDNyi2YA,270,9.220532204,45.44188488,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\QzMd74_7Yeff6YgDNyi2YA_270.jpg,0.24169922,public bench,4,1
+8,LbFplj6y9g16mjiCOes4QQ,90,9.126318469,45.51878703,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\LbFplj6y9g16mjiCOes4QQ_090.jpg,0.24060059,bench near the curb,4,1
+9,Lr4NMNZ0MQaoP1Yzx4D3Tg,90,9.180032792,45.51218728,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\Lr4NMNZ0MQaoP1Yzx4D3Tg_090.jpg,0.24047852,benches,4,1
+10,7CoyIjngxIKzO4rjxkQ4cQ,90,9.163627768,45.4426333,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\7CoyIjngxIKzO4rjxkQ4cQ_090.jpg,0.23901367,street furniture benches,4,1
+11,9q9OaIn8H_PyyjlN6bFnDw,90,9.209304785,45.52189128,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\9q9OaIn8H_PyyjlN6bFnDw_090.jpg,0.23864746,bench near the curb,4,1
+12,CPm0N_iyCtHDyuj8U9Im9Q,90,9.106645458,45.51150358,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\CPm0N_iyCtHDyuj8U9Im9Q_090.jpg,0.23864746,bench near the curb,4,1
+13,LFhvjdVPGLVB_zwlNz2deQ,270,9.1302333,45.5024458,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\LFhvjdVPGLVB_zwlNz2deQ_270.jpg,0.23852539,bench near the curb,4,1
+14,96noJkCxyDlXf_N-iWKIkQ,90,9.125573216,45.51843559,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\96noJkCxyDlXf_N-iWKIkQ_090.jpg,0.23779297,public bench,4,1
+15,wOJIst6wLGUS5cGeyEJMLw,90,9.1206041,45.5121295,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\wOJIst6wLGUS5cGeyEJMLw_090.jpg,0.23632812,bench near the curb,4,1
+16,o53zYF0dsqn6qUtw6co6Gw,90,9.104430883,45.49215309,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\o53zYF0dsqn6qUtw6co6Gw_090.jpg,0.23535156,public bench,4,1
+17,dDl8SoO02Yg0YE8mstmGuQ,90,9.180222624,45.511572,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\dDl8SoO02Yg0YE8mstmGuQ_090.jpg,0.23522949,benches,4,1
+18,JR0OsazBSI3nYCOTGxrLjA,90,9.178027985,45.51864461,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\JR0OsazBSI3nYCOTGxrLjA_090.jpg,0.23413086,benches,4,1
+19,Z-f5sHd-1K1JPAwlAKwX7Q,270,9.129948147,45.49543508,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\Z-f5sHd-1K1JPAwlAKwX7Q_270.jpg,0.23352051,bench near the curb,4,1
+20,C83MK_HP00LQ8e4O8xse1Q,270,9.122564978,45.50340238,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\C83MK_HP00LQ8e4O8xse1Q_270.jpg,0.2331543,bench near the curb,4,1
+21,y-nyd-0_0QGfSPtW_DyYAg,90,9.1027947,45.500564,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\y-nyd-0_0QGfSPtW_DyYAg_090.jpg,0.23278809,bench near the curb,4,1
+22,W0EJtIqNMaie2CyMzynybg,270,9.1700062,45.5172617,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\W0EJtIqNMaie2CyMzynybg_270.jpg,0.23266602,street furniture benches,4,1
+23,32fHOKhaOoqMnA37ubsHdQ,90,9.250915516,45.48438833,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\32fHOKhaOoqMnA37ubsHdQ_090.jpg,0.23242188,street furniture benches,4,1
+24,49FBWxgTXO7XOvIBUrRJjA,90,9.210807803,45.52453095,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\49FBWxgTXO7XOvIBUrRJjA_090.jpg,0.23242188,bench near the curb,4,1
+25,DmOINK5gyWwuA5-AsGNbqA,90,9.206803321,45.47728026,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\DmOINK5gyWwuA5-AsGNbqA_090.jpg,0.23144531,benches on the sidewalk,4,1
+26,ol2vJpnw2r7Ib4fZ-GqRIQ,90,9.128707715,45.45456124,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\ol2vJpnw2r7Ib4fZ-GqRIQ_090.jpg,0.23144531,street furniture benches,4,1
+27,P8S_GAXA33StYn5ahtvbMw,90,9.167811377,45.46211527,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\P8S_GAXA33StYn5ahtvbMw_090.jpg,0.23022461,street benches,4,1
+28,LVERDH0zhSKZj7-7fTnHGw,0,9.197877622,45.46331569,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\LVERDH0zhSKZj7-7fTnHGw_000.jpg,0.2298584,bench near the curb,4,1
+29,blXDCgzLGyNiV_ma4ELu_g,270,9.216281711,45.44393101,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\blXDCgzLGyNiV_ma4ELu_g_270.jpg,0.22875977,street benches,4,1
+30,o9--yIpcRTXfncE-bQmZ6A,90,9.1987291,45.466129,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\o9--yIpcRTXfncE-bQmZ6A_090.jpg,0.2286377,street benches,4,1
+31,ypT3bIeelabJ7OKJQ34Vew,90,9.238762646,45.48444991,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\ypT3bIeelabJ7OKJQ34Vew_090.jpg,0.22851562,bench near the curb,4,1
+32,a3kY7BS7cIdCIY2thSvc9w,270,9.180090241,45.4686047,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\a3kY7BS7cIdCIY2thSvc9w_270.jpg,0.22851562,public bench,4,2
+33,T3q8pX1I3Q4iai1SFs3tqw,90,9.118827295,45.51486443,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\T3q8pX1I3Q4iai1SFs3tqw_090.jpg,0.22839355,bench near the curb,4,1
+34,6mzWffcCJjr_BjUED-F_kw,0,9.246227854,45.51033633,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\6mzWffcCJjr_BjUED-F_kw_000.jpg,0.22827148,street furniture benches,4,1
+35,d6BaQkKHIR0MiwQdSKasEg,90,9.260219422,45.50865141,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\d6BaQkKHIR0MiwQdSKasEg_090.jpg,0.22802734,public bench,4,1
+36,V649ozY0wgChPC6I7OATmA,270,9.1793269,45.4672214,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\V649ozY0wgChPC6I7OATmA_270.jpg,0.22790527,public bench,4,1
+37,EpcQkZy2WNGXJCsqUuvpMA,90,9.229284,45.459755,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\EpcQkZy2WNGXJCsqUuvpMA_090.jpg,0.22717285,bench near the curb,4,1
+38,YPlzG5DioMcsgLfhdRU-dA,90,9.176889163,45.46660586,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\YPlzG5DioMcsgLfhdRU-dA_090.jpg,0.22717285,street furniture benches,4,1
+39,TIZ4Z_qo3zmFyQS5s7Vhbw,270,9.227442177,45.50338046,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\TIZ4Z_qo3zmFyQS5s7Vhbw_270.jpg,0.22680664,bench near the curb,4,1
+40,6zLdZ-L1WoMxOjXuKCEjGg,270,9.214158591,45.52209971,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\6zLdZ-L1WoMxOjXuKCEjGg_270.jpg,0.22668457,a bench on the sidewalk,4,1
+41,qkHR9lfqiXH2VcuO-ymeJA,90,9.1840116,45.4670642,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\qkHR9lfqiXH2VcuO-ymeJA_090.jpg,0.2265625,street furniture benches,4,1
+42,i8hxPaV2cZgPMpWTuS4HdQ,0,9.2403996,45.4358076,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\i8hxPaV2cZgPMpWTuS4HdQ_000.jpg,0.2265625,street furniture benches,4,1
+43,VahihbthkdDVRGmumgjzrg,270,9.23453,45.4841705,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\VahihbthkdDVRGmumgjzrg_270.jpg,0.2265625,benches along the street,4,1
+44,ayuSdPRUFdv9P0fpw0ZiiQ,90,9.13288374,45.49404315,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\ayuSdPRUFdv9P0fpw0ZiiQ_090.jpg,0.22607422,bench near the curb,4,1
+45,Y_ILqKUPJ6AbjQi3Rj8Iww,270,9.2268124,45.4814889,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\Y_ILqKUPJ6AbjQi3Rj8Iww_270.jpg,0.22607422,benches along the street,4,1
+46,TH04CWk_FwtUkbCEqtZ0aw,90,9.101161265,45.45187401,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\TH04CWk_FwtUkbCEqtZ0aw_090.jpg,0.2253418,bench near the curb,4,1
+47,Nl1gma62829sdaw1TD82Kw,90,9.175164,45.5098923,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\Nl1gma62829sdaw1TD82Kw_090.jpg,0.22521973,benches along the street,4,1
+48,BP8x7m_NmmqS1PUMGN1ZTw,270,9.224152622,45.4613106,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\BP8x7m_NmmqS1PUMGN1ZTw_270.jpg,0.22509766,benches on the sidewalk,4,1
+49,d8bUw0mEy4dCFKdGzlwqRg,180,9.1732363,45.4762248,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\d8bUw0mEy4dCFKdGzlwqRg_180.jpg,0.22509766,street benches,4,1
+50,PGvawy-PtOtPGZ_6zP_IFA,90,9.184255004,45.47688739,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\PGvawy-PtOtPGZ_6zP_IFA_090.jpg,0.22509766,street furniture benches,4,1
+51,ZyB3sV641eLfj0HtGjYy_Q,90,9.211024633,45.52456184,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\ZyB3sV641eLfj0HtGjYy_Q_090.jpg,0.22485352,bench near the curb,4,1
+52,GH0wbzXrMHsEqrz-8LI4Zg,90,9.200984353,45.47051064,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\GH0wbzXrMHsEqrz-8LI4Zg_090.jpg,0.22485352,public seating on the sidewalk,4,1
+53,lMa6f3dWFtnp_Qb6eoGj8w,270,9.170879477,45.47644337,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\lMa6f3dWFtnp_Qb6eoGj8w_270.jpg,0.22473145,public seating on the sidewalk,4,1
+54,ejkiOUXfJizz20C9ZUEI8w,270,9.127252604,45.46231018,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\ejkiOUXfJizz20C9ZUEI8w_270.jpg,0.22473145,bench near the curb,4,1
+55,9Nm1AVGzXunh-l8msLPkqg,180,9.195974,45.480349,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\9Nm1AVGzXunh-l8msLPkqg_180.jpg,0.22460938,bench near the curb,4,1
+56,4X2LWYVFSFMi24wOzUSgcg,90,9.2553151,45.4360414,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\4X2LWYVFSFMi24wOzUSgcg_090.jpg,0.22460938,bench near the curb,4,1
+57,0QntWojlo1Vtca5f4BrOGw,270,9.2270257,45.479363,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\0QntWojlo1Vtca5f4BrOGw_270.jpg,0.2244873,benches,4,1
+58,dS5LHh5eF4Oj5JOFirN7kw,270,9.2211472,45.4751541,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\dS5LHh5eF4Oj5JOFirN7kw_270.jpg,0.22436523,benches along the street,4,1
+59,qf1asmkwqbhM7s9PF2owyg,90,9.2557467,45.5115871,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\qf1asmkwqbhM7s9PF2owyg_090.jpg,0.22436523,street furniture benches,4,1
+60,5q1_qHGiWP0glAki_2oTRA,90,9.1205082,45.4943506,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\5q1_qHGiWP0glAki_2oTRA_090.jpg,0.22436523,public bench,4,1
+61,DsOXYHBEJQphCN246cjm9Q,90,9.213695144,45.52963455,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\DsOXYHBEJQphCN246cjm9Q_090.jpg,0.2241211,bench near the curb,4,1
+62,OKUsuaSf4XWj1Xqk_jCO7Q,270,9.2363596,45.4811444,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\OKUsuaSf4XWj1Xqk_jCO7Q_270.jpg,0.2241211,bench near the curb,4,1
+63,c-nQ6WRRRu40EFAFVdtIYQ,270,9.152466655,45.48969236,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\c-nQ6WRRRu40EFAFVdtIYQ_270.jpg,0.22399902,benches along the street,4,1
+64,g9v0gstpn0i6QpTtbS7jyg,270,9.159474058,45.48772914,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\g9v0gstpn0i6QpTtbS7jyg_270.jpg,0.22399902,benches on the sidewalk,4,1
+65,c7ylgg0sraR-29HH0JabQA,90,9.180427882,45.51095914,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\c7ylgg0sraR-29HH0JabQA_090.jpg,0.22399902,a bench,4,1
+66,47ISopIvBl7w_q-wxCDpOA,270,9.2051241,45.4519764,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\47ISopIvBl7w_q-wxCDpOA_270.jpg,0.22399902,public bench,4,1
+67,8HB7cpW8qt_6kvvD9b2D2g,90,9.120880057,45.47024727,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\8HB7cpW8qt_6kvvD9b2D2g_090.jpg,0.22399902,bench near the curb,4,1
+68,SxRC98-L3N-3nGiVyp2y4g,270,9.214123148,45.47282192,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\SxRC98-L3N-3nGiVyp2y4g_270.jpg,0.22399902,street benches,4,1
+69,E3UaqKzuQUih6sMkALzSgA,270,9.1264573,45.5015786,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\E3UaqKzuQUih6sMkALzSgA_270.jpg,0.22375488,benches along the street,4,1
+70,7NOXJ6ZvlEaWv-f5OM-T7Q,270,9.2000595,45.4648334,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\7NOXJ6ZvlEaWv-f5OM-T7Q_270.jpg,0.22338867,street benches,4,1
+71,p_gMgwfaCdCI4MJlfbA9cg,0,9.1722558,45.4809518,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\p_gMgwfaCdCI4MJlfbA9cg_000.jpg,0.22338867,street furniture benches,4,1
+72,p3_lJPa7ETBz0SyDJNC9Ag,90,9.076263659,45.45243065,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\p3_lJPa7ETBz0SyDJNC9Ag_090.jpg,0.2232666,bench near the curb,4,1
+73,Hsbxbko5KGeekCYPjijMYA,90,9.1485407,45.5077591,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\Hsbxbko5KGeekCYPjijMYA_090.jpg,0.22314453,bench near the curb,4,1
+74,NerrXLkh8RBMgQX41X6GWQ,90,9.175443928,45.50190937,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\NerrXLkh8RBMgQX41X6GWQ_090.jpg,0.22314453,street furniture benches,4,1
+75,VpSAXTyT-cuRNTu99mekbw,270,9.2111379,45.4767133,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\VpSAXTyT-cuRNTu99mekbw_270.jpg,0.22314453,street benches,4,1
+76,T0-f_xnQs4lMBleLi1f5Rw,90,9.1989011,45.4769246,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\T0-f_xnQs4lMBleLi1f5Rw_090.jpg,0.22314453,bench near the curb,4,1
+77,gobn7WLq1Dy4z6n676s6Yg,270,9.230732221,45.47938942,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\gobn7WLq1Dy4z6n676s6Yg_270.jpg,0.22314453,benches on the sidewalk,4,1
+78,ChOEFmoNYG22x57Zyin5Bw,90,9.1722884,45.4761927,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\ChOEFmoNYG22x57Zyin5Bw_090.jpg,0.22290039,street benches,4,2
+79,HUUXmUbWDRw0J_pmLV7lBg,90,9.2520305,45.4885341,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\HUUXmUbWDRw0J_pmLV7lBg_090.jpg,0.22290039,bench near the curb,4,1
+80,Sa-jRtB-BKu-sNwI9_Imvw,90,9.0855003,45.4773238,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\Sa-jRtB-BKu-sNwI9_Imvw_090.jpg,0.22290039,bench near the curb,4,1
+81,sFt5-Zqe0yKTgD75KXsXEQ,90,9.18083172,45.52671021,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\sFt5-Zqe0yKTgD75KXsXEQ_090.jpg,0.22277832,bench near the curb,4,1
+82,fMuMQBRcLf6Bb5Td1dx2Aw,90,9.191747,45.4758723,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\fMuMQBRcLf6Bb5Td1dx2Aw_090.jpg,0.22277832,street furniture benches,4,1
+83,j2M63hjPaddGsqAkUDNHIA,270,9.172855636,45.52939619,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\j2M63hjPaddGsqAkUDNHIA_270.jpg,0.22277832,bench near the curb,4,1
+84,E6xhDOPDr6qJ0cdbNRyAQA,90,9.163500883,45.42520067,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\E6xhDOPDr6qJ0cdbNRyAQA_090.jpg,0.22277832,bench near the curb,4,1
+85,cuz8-9ET2m3fNaXLTcE2ug,90,9.1948984,45.4724414,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\cuz8-9ET2m3fNaXLTcE2ug_090.jpg,0.22277832,bench near the curb,4,1
+86,vhg4bftrRdtAX0CDPdT2PA,90,9.212732633,45.49751003,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\vhg4bftrRdtAX0CDPdT2PA_090.jpg,0.22277832,street furniture benches,4,1
+87,yJkj4MmdqGb0-XWjuvvWvw,90,9.2236945,45.4776542,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\yJkj4MmdqGb0-XWjuvvWvw_090.jpg,0.22265625,street benches,4,1
+88,jSF0cNeBk5XfYf-lCdd7Aw,90,9.1876991,45.4715629,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\jSF0cNeBk5XfYf-lCdd7Aw_090.jpg,0.22265625,street benches,4,1
+89,C24QmWjKApbRnWnyzFSyKw,90,9.064660682,45.5026807,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\C24QmWjKApbRnWnyzFSyKw_090.jpg,0.22253418,a bench,4,1
+90,g1weioRWFAdbpwIReaOlKg,270,9.2397521,45.4371478,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\g1weioRWFAdbpwIReaOlKg_270.jpg,0.22241211,benches on the sidewalk,4,1
+91,qcC_1QrQmlTVRSR2TvK20g,90,9.2139783,45.5215975,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\qcC_1QrQmlTVRSR2TvK20g_090.jpg,0.22241211,street furniture benches,4,1
+92,c2ceBXn1djIQCMLYHzXG8A,270,9.089113834,45.47749332,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\c2ceBXn1djIQCMLYHzXG8A_270.jpg,0.22229004,bench near the curb,4,1
+93,46vB-XayK9AmJWDl_ZsUeQ,90,9.0852806,45.463835,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\46vB-XayK9AmJWDl_ZsUeQ_090.jpg,0.22229004,bench near the curb,4,1
+94,bdokdBQkKE5c667pun3jiQ,90,9.115006644,45.46168139,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\bdokdBQkKE5c667pun3jiQ_090.jpg,0.22216797,public bench,4,1
+95,xd5-D3J6UbYKj1MJjsLOeg,90,9.2236699,45.4795251,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\xd5-D3J6UbYKj1MJjsLOeg_090.jpg,0.2220459,benches along the street,4,1
+96,SJBmmyJEaUQdp8uZOsV0ZQ,90,9.10314467,45.45316661,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\SJBmmyJEaUQdp8uZOsV0ZQ_090.jpg,0.22192383,bench near the curb,4,1
+97,junrLdSpLzz3Rf8ysiIwsA,0,9.191756,45.4586137,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\junrLdSpLzz3Rf8ysiIwsA_000.jpg,0.22180176,street benches,4,1
+98,21xFfxOz3pHuckONkFOnxg,90,9.132229879,45.49687709,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\21xFfxOz3pHuckONkFOnxg_090.jpg,0.22180176,street furniture benches,4,1
+99,HT7OQPO7KcKBNPxWB82y4g,270,9.104629477,45.47006472,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\HT7OQPO7KcKBNPxWB82y4g_270.jpg,0.22180176,bench near the curb,4,1
+100,rNl6H9tzTR83MlGBEN4__g,90,9.1908259,45.4422549,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\rNl6H9tzTR83MlGBEN4__g_090.jpg,0.22180176,bench near the curb,4,1
+101,22EktM-OxATWrYV7Dv-YiQ,90,9.127810874,45.51948791,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\22EktM-OxATWrYV7Dv-YiQ_090.jpg,0.22167969,bench near the curb,4,1
+102,b846IVRb9ZO2uJ0I7UeKTQ,90,9.139159062,45.49094671,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\b846IVRb9ZO2uJ0I7UeKTQ_090.jpg,0.22155762,bench near the curb,4,1
+103,8-N7giINuYTNSB4Pfn3f_A,270,9.202384168,45.47700502,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\8-N7giINuYTNSB4Pfn3f_A_270.jpg,0.22155762,public bench,4,1
+104,XpdQSh3ilhLx_L9qLDqYug,90,9.1906295,45.4432011,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\XpdQSh3ilhLx_L9qLDqYug_090.jpg,0.22155762,street furniture benches,4,1
+105,6uwyBB2ozFRB3QLqDmPSpw,270,9.2250385,45.4807106,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\6uwyBB2ozFRB3QLqDmPSpw_270.jpg,0.22155762,street furniture benches,4,1
+106,s1NT1i4rFUZuG5HUjcNB4w,90,9.2521359,45.4867502,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\s1NT1i4rFUZuG5HUjcNB4w_090.jpg,0.22155762,street benches,4,1
+107,APY0g9qX0roKGCz_7UwUsg,90,9.0795081,45.45742,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\APY0g9qX0roKGCz_7UwUsg_090.jpg,0.22143555,bench near the curb,4,1
+108,vN1QCEwk65zN_P6njoB9zA,90,9.2238211,45.4971892,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\vN1QCEwk65zN_P6njoB9zA_090.jpg,0.22131348,bench near the curb,4,1
+109,ZJKamie4JzuwdcuDzqyvCw,90,9.2147903,45.4815417,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\ZJKamie4JzuwdcuDzqyvCw_090.jpg,0.22131348,street furniture benches,4,1
+110,VJTF4WA0CXTRd7Rj-CoXCg,90,9.066487029,45.49333955,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\VJTF4WA0CXTRd7Rj-CoXCg_090.jpg,0.22106934,bench near the curb,4,1
+111,YJoZJNoayy8-SzhKpvwLYw,90,9.244612889,45.42860709,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\YJoZJNoayy8-SzhKpvwLYw_090.jpg,0.22094727,bench near the curb,4,1
+112,BklHVtBG7j00DXvl6j-3mg,270,9.206926302,45.41202167,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\BklHVtBG7j00DXvl6j-3mg_270.jpg,0.22094727,bench near the curb,4,1
+113,x0yyV64K815vf2pZFKnAPA,270,9.183062953,45.45259175,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\x0yyV64K815vf2pZFKnAPA_270.jpg,0.22058105,public bench,4,1
+114,vjq4QseWUBO9atGL1Y4L5Q,90,9.169653,45.4777971,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\vjq4QseWUBO9atGL1Y4L5Q_090.jpg,0.22058105,benches on the sidewalk,4,1
+115,pLNiomoR-KYwUzDXeP6Zew,270,9.229860454,45.48969009,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\pLNiomoR-KYwUzDXeP6Zew_270.jpg,0.22045898,benches along the street,4,1
+116,0hZwTEEBNeVfs8JOEU9Psg,270,9.244514711,45.50995858,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\0hZwTEEBNeVfs8JOEU9Psg_270.jpg,0.22045898,bench near the curb,4,1
+117,N_1pwQB_hJ38ungk_UiEOw,90,9.076452172,45.45304678,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\N_1pwQB_hJ38ungk_UiEOw_090.jpg,0.22045898,bench near the curb,4,1
+118,BeyQK8kxexdLXaqBl_Uc8g,270,9.179474349,45.43104653,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\BeyQK8kxexdLXaqBl_Uc8g_270.jpg,0.22033691,bench near the curb,4,1
+119,SO0JzGyjnPKa3n20-o9rIQ,90,9.160762411,45.51316323,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\SO0JzGyjnPKa3n20-o9rIQ_090.jpg,0.22009277,bench near the curb,4,1
+120,Hupd9lRTDyQRi8o8ZdCXVQ,270,9.2212663,45.4415216,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\Hupd9lRTDyQRi8o8ZdCXVQ_270.jpg,0.22009277,street furniture benches,4,1
+121,phyOWLaHEASRVJG39pKIsQ,270,9.130040778,45.49226132,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\phyOWLaHEASRVJG39pKIsQ_270.jpg,0.2199707,bench near the curb,4,1
+122,1ePvhtJBppJqQRkSJVU4HA,270,9.151672809,45.47676072,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\1ePvhtJBppJqQRkSJVU4HA_270.jpg,0.2199707,bench near the curb,4,1
+123,zzp_MoPfqkJShuAo0AYc6w,90,9.125539656,45.43672427,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\zzp_MoPfqkJShuAo0AYc6w_090.jpg,0.2199707,bench near the curb,4,1
+124,89mi_E-infTa4m4NdXs-OA,270,9.18907947,45.4896132,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\89mi_E-infTa4m4NdXs-OA_270.jpg,0.2199707,street furniture benches,4,1
+125,YsoM1-d4WDY0CDMDSCxZ6w,270,9.0758013,45.449484,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\YsoM1-d4WDY0CDMDSCxZ6w_270.jpg,0.2199707,bench near the curb,4,1
+126,rjSsn8CX6B8W6TD4oNY-Fg,90,9.125370109,45.49332525,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\rjSsn8CX6B8W6TD4oNY-Fg_090.jpg,0.21984863,benches on the sidewalk,4,1
+127,2puLTmKiVqHmLUu3e524hg,90,9.263052608,45.51543603,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\2puLTmKiVqHmLUu3e524hg_090.jpg,0.21984863,bench near the curb,4,1
+128,yzPhXtgxCqg7UKwf-MhkRg,90,9.135978069,45.52052894,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\yzPhXtgxCqg7UKwf-MhkRg_090.jpg,0.21972656,bench near the curb,4,1
+129,2bplupzItRwcd4jrhvrrPA,180,9.1564963,45.4875577,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\2bplupzItRwcd4jrhvrrPA_180.jpg,0.21972656,bench near the curb,4,1
+130,IPVEjEyaSV10Vv55qznr5A,270,9.17638426,45.44554914,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\IPVEjEyaSV10Vv55qznr5A_270.jpg,0.21960449,public bench,4,1
+131,90L9lMBYvod2Jyy0JwajjQ,90,9.1707651,45.4594075,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\90L9lMBYvod2Jyy0JwajjQ_090.jpg,0.21960449,public bench,4,1
+132,yAZg_4u5rH4yWD9gkPug7A,90,9.176792857,45.43061888,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\yAZg_4u5rH4yWD9gkPug7A_090.jpg,0.21948242,bench near the curb,4,1
+133,mIKPgOpQw24LmgkSX1_ePw,270,9.149518495,45.4957369,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\mIKPgOpQw24LmgkSX1_ePw_270.jpg,0.21948242,bench near the curb,4,1
+134,2XjedaGRxz7tyQDq_-diVA,90,9.241292156,45.45776732,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\2XjedaGRxz7tyQDq_-diVA_090.jpg,0.21936035,street benches,4,1
+135,dF9kXDy3SqsVFRKQ9viyGQ,90,9.132946037,45.49410995,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\dF9kXDy3SqsVFRKQ9viyGQ_090.jpg,0.21936035,bench near the curb,4,1
+136,clOXPKIlItkuc0ysljmYAQ,270,9.203417469,45.51187678,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\clOXPKIlItkuc0ysljmYAQ_270.jpg,0.21923828,public bench,4,1
+137,2VadfzTpgSOfVjhsmOZm5A,270,9.1710804,45.4704131,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\2VadfzTpgSOfVjhsmOZm5A_270.jpg,0.21923828,bench near the curb,4,1
+138,dOLbr02ny5HCPf87bef2dw,90,9.139342295,45.49453804,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\dOLbr02ny5HCPf87bef2dw_090.jpg,0.21911621,street furniture benches,4,1
+139,dqz4v23jR4nWpPMdYaVrUQ,90,9.122001259,45.50662268,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\dqz4v23jR4nWpPMdYaVrUQ_090.jpg,0.21899414,benches on the sidewalk,4,1
+140,xhdo02lZf08poh4ta1LDkQ,90,9.1417648,45.4431161,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\xhdo02lZf08poh4ta1LDkQ_090.jpg,0.21887207,a bench,4,1
+141,LEcoAVPUlHJqzmiYcQ5DUg,0,9.205095169,45.47505793,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\LEcoAVPUlHJqzmiYcQ5DUg_000.jpg,0.21887207,street benches,4,2
+142,6tKEKufAMEd-Zn1fc_vzAw,90,9.1459197,45.5127065,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\6tKEKufAMEd-Zn1fc_vzAw_090.jpg,0.21875,bench near the curb,4,1
+143,ks35yQ_tsKMbPfe2ctskPw,90,9.163518957,45.53300754,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\ks35yQ_tsKMbPfe2ctskPw_090.jpg,0.21862793,bench near the curb,4,1
+144,pvDcJVQax1eBV26QQNLFtg,270,9.179900995,45.48171628,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\pvDcJVQax1eBV26QQNLFtg_270.jpg,0.21862793,street benches,4,1
+145,bsVucKle99ah6lmhpoqZ7g,90,9.106476834,45.4993917,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\bsVucKle99ah6lmhpoqZ7g_090.jpg,0.21862793,benches on the sidewalk,4,1
+146,Gi4qvi0qirUjNtQ5eDtAJQ,90,9.202037192,45.4755927,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\Gi4qvi0qirUjNtQ5eDtAJQ_090.jpg,0.21850586,benches along the street,4,1
+147,g3sQTwH18LjnZoDRBcFWnQ,270,9.1871207,45.4677414,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\g3sQTwH18LjnZoDRBcFWnQ_270.jpg,0.21850586,a bench on the sidewalk,4,1
+148,nJCOVvtRcMCAJsLgr27rVg,270,9.2171259,45.4685331,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\nJCOVvtRcMCAJsLgr27rVg_270.jpg,0.21838379,street benches,4,1
+149,UzX2nSOeQeK-gNCd7QlCeQ,270,9.1906619,45.4670115,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\UzX2nSOeQeK-gNCd7QlCeQ_270.jpg,0.21838379,public bench,4,1
+150,L0Tc5-zSlahaso824q7HTg,90,9.250906635,45.48584362,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\L0Tc5-zSlahaso824q7HTg_090.jpg,0.21826172,bench near the curb,4,1
+151,-aufscEgGKl6W08RG-2X8w,90,9.205212377,45.51466545,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\-aufscEgGKl6W08RG-2X8w_090.jpg,0.21826172,bench near the curb,4,1
+152,ecfwxQk6mhU313hHqojrog,90,9.1653606,45.5283222,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\ecfwxQk6mhU313hHqojrog_090.jpg,0.21813965,bench near the curb,4,1
+153,h4MoWxomXBgQCEbSsW2LIg,270,9.2184596,45.4621503,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\h4MoWxomXBgQCEbSsW2LIg_270.jpg,0.21813965,public bench,4,1
+154,It8ZwslkDe5KUVqZh-oDcg,90,9.258155376,45.43491151,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\It8ZwslkDe5KUVqZh-oDcg_090.jpg,0.21813965,bench near the curb,4,1
+155,75lbqv5fOm3xXfHTbwaZdw,90,9.189029891,45.44205407,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\75lbqv5fOm3xXfHTbwaZdw_090.jpg,0.21801758,bench near the curb,4,1
+156,IyEbGKGSa9PY7rFKpqsMmQ,270,9.207498006,45.51427745,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\IyEbGKGSa9PY7rFKpqsMmQ_270.jpg,0.21801758,public bench,4,1
+157,Z6U-YzFXu_6-GJBa_oF7qw,180,9.1709021,45.470471,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\Z6U-YzFXu_6-GJBa_oF7qw_180.jpg,0.21789551,bench near the curb,4,1
+158,yTteNcv1dX3woBysfsv82g,90,9.184889201,45.50455594,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\yTteNcv1dX3woBysfsv82g_090.jpg,0.21789551,bench near the curb,4,1
+159,o_quvbyX_gQ_QCF8jEibwQ,270,9.206433286,45.51683637,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\o_quvbyX_gQ_QCF8jEibwQ_270.jpg,0.21789551,bench near the curb,4,2
+160,P7xWbfS4G7ZPGnEqqwDvkw,270,9.1642436,45.5275501,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\P7xWbfS4G7ZPGnEqqwDvkw_270.jpg,0.21777344,street furniture benches,4,1
+161,e0a9VuHziknYnyr8G-fvFg,270,9.2150964,45.4756995,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\e0a9VuHziknYnyr8G-fvFg_270.jpg,0.21777344,public seating on the sidewalk,4,1
+162,Chb__2RLoWNWxgOFr8XzwQ,90,9.205902924,45.41483312,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\Chb__2RLoWNWxgOFr8XzwQ_090.jpg,0.21777344,bench near the curb,4,1
+163,tcNqJHbdG0Tmi_1SVy7icg,270,9.1290017,45.4665026,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\tcNqJHbdG0Tmi_1SVy7icg_270.jpg,0.21777344,street benches,4,1
+164,H1lFRyHJxcSoMphupxE2bA,90,9.18709962,45.45233962,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\H1lFRyHJxcSoMphupxE2bA_090.jpg,0.21777344,benches along the street,4,1
+165,mmpmxfsw_HBZ4CjGeWY2xg,180,9.1820002,45.4675795,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\mmpmxfsw_HBZ4CjGeWY2xg_180.jpg,0.21765137,street benches,4,1
+166,uHQkxvX4xEeBSVcFHTQqWQ,90,9.251488372,45.48541716,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\uHQkxvX4xEeBSVcFHTQqWQ_090.jpg,0.2175293,public bench,4,1
+167,77p6cRUGt8yxD_U3Y8_MOg,0,9.1744567,45.4518041,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\77p6cRUGt8yxD_U3Y8_MOg_000.jpg,0.2175293,street benches,4,1
+168,8CmnOoW4myRKI0413fUHDw,90,9.192885765,45.51130593,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\8CmnOoW4myRKI0413fUHDw_090.jpg,0.2175293,bench near the curb,4,1
+169,_nrceSws8ZERyFR_ZfU45g,90,9.189236535,45.43697738,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\_nrceSws8ZERyFR_ZfU45g_090.jpg,0.21740723,bench near the curb,4,1
+170,WhKwa3FgAmfNYbDrqJSw_A,270,9.2585357,45.4540903,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\WhKwa3FgAmfNYbDrqJSw_A_270.jpg,0.21740723,bench near the curb,4,1
+171,JXumRcLVtvDprXYPQF4tng,90,9.154259962,45.44025016,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\JXumRcLVtvDprXYPQF4tng_090.jpg,0.21740723,public bench,4,1
+172,CBGoQfYN-w6ripN2FTDPRg,180,9.1506151,45.4771587,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\CBGoQfYN-w6ripN2FTDPRg_180.jpg,0.21728516,benches on the sidewalk,4,1
+173,blszsqJ_vUsAODbgBGIIOA,270,9.13654723,45.45760039,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\blszsqJ_vUsAODbgBGIIOA_270.jpg,0.21728516,public bench,4,1
+174,SAAcUC7PI5kco73RyNL1Nw,270,9.1400802,45.5045566,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\SAAcUC7PI5kco73RyNL1Nw_270.jpg,0.21716309,bench near the curb,4,1
+175,917S5rDZlBPoxfi1etiqBA,90,9.1074481,45.5117778,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\917S5rDZlBPoxfi1etiqBA_090.jpg,0.21716309,bench near the curb,4,1
+176,mW2RT0taMBAJVWru-G-tsA,90,9.114962962,45.51548187,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\mW2RT0taMBAJVWru-G-tsA_090.jpg,0.21716309,bench near the curb,4,1
+177,7EIxOxFoXYebF7asa1ATKQ,270,9.209369721,45.45633517,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\7EIxOxFoXYebF7asa1ATKQ_270.jpg,0.21704102,bench near the curb,4,1
+178,ZQKl5HdLU9rAS33NfXiWig,270,9.1638454,45.4610599,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\ZQKl5HdLU9rAS33NfXiWig_270.jpg,0.21704102,benches along the street,4,1
+179,ILOfBxyvnQwNKRmF_Iz9hg,90,9.213127409,45.51885628,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\ILOfBxyvnQwNKRmF_Iz9hg_090.jpg,0.21691895,benches on the sidewalk,4,1
+180,G-v-K6-wbpzmTIRMhT1akA,90,9.203848204,45.43850447,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\G-v-K6-wbpzmTIRMhT1akA_090.jpg,0.21691895,benches along the street,4,1
+181,1gDkTRlJVFl3nhqVt0GY4A,90,9.204009897,45.50204019,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\1gDkTRlJVFl3nhqVt0GY4A_090.jpg,0.21679688,bench near the curb,4,1
+182,priptV4nUqEcb8dteUiAtA,270,9.197969446,45.4564213,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\priptV4nUqEcb8dteUiAtA_270.jpg,0.21679688,benches on the sidewalk,4,1
+183,AZv48cch3H-5m6cJlgCjOw,270,9.1984214,45.4633151,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\AZv48cch3H-5m6cJlgCjOw_270.jpg,0.21679688,street furniture benches,4,1
+184,Ngcu0CASS5gxStMzmfZEWA,270,9.1927039,45.4580309,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\Ngcu0CASS5gxStMzmfZEWA_270.jpg,0.21679688,street furniture benches,4,1
+185,XRpTW5diP3hXmHaR76IJiQ,90,9.16734619,45.52619751,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\XRpTW5diP3hXmHaR76IJiQ_090.jpg,0.21679688,bench near the curb,4,1
+186,_rSLIomteBRuHmamfCF-dQ,270,9.217030955,45.44358331,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\_rSLIomteBRuHmamfCF-dQ_270.jpg,0.21679688,public bench,4,1
+187,FmsBQvjvxHKk3W1rf__GNg,270,9.252697717,45.46357019,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\FmsBQvjvxHKk3W1rf__GNg_270.jpg,0.21679688,bench near the curb,4,1
+188,9ByMPPKETJ203AaoiYBZpw,270,9.151849012,45.45628029,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\9ByMPPKETJ203AaoiYBZpw_270.jpg,0.21679688,benches along the street,4,1
+189,78VSjtvBFRosQkVrt-gkNg,270,9.193885,45.4796698,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\78VSjtvBFRosQkVrt-gkNg_270.jpg,0.2166748,street furniture benches,4,1
+190,QhtqPng_yuLcuj5SU5SR5A,270,9.176540529,45.48009407,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\QhtqPng_yuLcuj5SU5SR5A_270.jpg,0.2166748,benches on the sidewalk,4,1
+191,nv26xFoGnI9ZIMhalaaKrQ,90,9.134614017,45.47609081,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\nv26xFoGnI9ZIMhalaaKrQ_090.jpg,0.2166748,street furniture benches,4,1
+192,Pcgd5vls_XUehpl2PvTjMQ,180,9.183692971,45.47297193,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\Pcgd5vls_XUehpl2PvTjMQ_180.jpg,0.2166748,benches on the sidewalk,4,1
+193,FFXv41IGtl45BDSbR8CZjg,90,9.07907397,45.47040212,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\FFXv41IGtl45BDSbR8CZjg_090.jpg,0.2166748,a bench,4,1
+194,P89cxBFUh-kNRYy1O_oSRQ,90,9.139369797,45.48601282,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\P89cxBFUh-kNRYy1O_oSRQ_090.jpg,0.2166748,a bench,4,1
+195,64N_ddElW104iE6nYiv0hg,270,9.194403032,45.47673688,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\64N_ddElW104iE6nYiv0hg_270.jpg,0.21655273,street benches,4,1
+196,DuIgHfa9eJgqKo1adRA9PQ,270,9.2036638,45.4623474,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\DuIgHfa9eJgqKo1adRA9PQ_270.jpg,0.21655273,street furniture benches,4,1
+197,0ES4lvXqMRaD48lzvJi3Sg,270,9.206839681,45.41140218,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\0ES4lvXqMRaD48lzvJi3Sg_270.jpg,0.21655273,bench near the curb,4,1
+198,O4_us9ZiEUqQH1MqpOmsew,90,9.1842423,45.4658497,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\O4_us9ZiEUqQH1MqpOmsew_090.jpg,0.21655273,street benches,4,1
+199,PUeqPsN7QOwgmsS5ArMk_A,270,9.1527455,45.4552888,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\PUeqPsN7QOwgmsS5ArMk_A_270.jpg,0.21655273,bench near the curb,4,1
+200,lNtRHqcalC7Wtb9c9xP_xA,90,9.0746124,45.4972836,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\lNtRHqcalC7Wtb9c9xP_xA_090.jpg,0.21643066,bench near the curb,4,1
+201,pGX4AUYZ9b1-GAB8KYK_jA,0,9.1392118,45.5147622,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\pGX4AUYZ9b1-GAB8KYK_jA_000.jpg,0.21643066,public bench,4,1
+202,SmppA19vB3zWALMkzIy1ug,90,9.178294012,45.51804432,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\SmppA19vB3zWALMkzIy1ug_090.jpg,0.21643066,street furniture benches,4,1
+203,bo9TamVi0OCTf0Xrt0IVxw,90,9.176706243,45.47812157,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\bo9TamVi0OCTf0Xrt0IVxw_090.jpg,0.2163086,bench near the curb,4,1
+204,F6lZMLPtymael1nTAtmySQ,90,9.207476862,45.48730633,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\F6lZMLPtymael1nTAtmySQ_090.jpg,0.2163086,benches on the sidewalk,4,1
+205,SAwFSHFNwMQDybtn5Q97Ug,270,9.180542715,45.41479536,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\SAwFSHFNwMQDybtn5Q97Ug_270.jpg,0.2163086,bench near the curb,4,1
+206,SqJiyIp82Ezj_AD3XpDPLg,90,9.211139073,45.52511595,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\SqJiyIp82Ezj_AD3XpDPLg_090.jpg,0.2163086,bench near the curb,4,1
+207,CPx5L9QQFSblbbDOXW93yQ,180,9.13788803,45.4857419,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\CPx5L9QQFSblbbDOXW93yQ_180.jpg,0.2163086,bench near the curb,4,1
+208,kLrB2SRBRgfNgSKvfVNuuQ,90,9.146616451,45.49230479,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\kLrB2SRBRgfNgSKvfVNuuQ_090.jpg,0.21618652,bench near the curb,4,1
+209,6gwR49f0WpFMRm9-5X5JnQ,90,9.177283134,45.42278709,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\6gwR49f0WpFMRm9-5X5JnQ_090.jpg,0.21618652,bench near the curb,4,1
+210,cRPUn5tImrPFYqC10nn6qw,90,9.126420802,45.51866992,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\cRPUn5tImrPFYqC10nn6qw_090.jpg,0.21618652,bench near the curb,4,1
+211,lLc7Aexj1pAnBUjnuU5jMw,90,9.217259947,45.43719595,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\lLc7Aexj1pAnBUjnuU5jMw_090.jpg,0.21618652,street furniture benches,4,1
+212,co7aGdotjirG7jIWaRXh4A,270,9.194237414,45.44789132,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\co7aGdotjirG7jIWaRXh4A_270.jpg,0.21606445,public bench,4,1
+213,enmLsKdevmKp0o0DpFE-AA,90,9.204738256,45.50377836,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\enmLsKdevmKp0o0DpFE-AA_090.jpg,0.21606445,bench near the curb,4,1
+214,NIeDQY2g9sTO3gukrwpuRw,270,9.2213649,45.4619969,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\NIeDQY2g9sTO3gukrwpuRw_270.jpg,0.21606445,benches along the street,4,1
+215,VV_5Dx2sIuG5qX-s10s72A,180,9.191335872,45.46530721,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\VV_5Dx2sIuG5qX-s10s72A_180.jpg,0.21606445,street benches,4,1
+216,l9b_YVlAxPbpumtYSsDDCw,90,9.1812776,45.4828806,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\l9b_YVlAxPbpumtYSsDDCw_090.jpg,0.21606445,bench near the curb,4,1
+217,N_u_PzYT4D1qpqCDyt_CIg,270,9.1299989,45.4999755,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\N_u_PzYT4D1qpqCDyt_CIg_270.jpg,0.21606445,public bench,4,1
+218,JURr8QKCMRQKHsCmGGdD3A,90,9.065611367,45.44425728,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\JURr8QKCMRQKHsCmGGdD3A_090.jpg,0.21606445,public bench,4,1
+219,Zk2m-bH4VcpnUi1Gpawy7g,270,9.153671825,45.45366934,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\Zk2m-bH4VcpnUi1Gpawy7g_270.jpg,0.21606445,street benches,4,1
+220,tVEDDRHBi5CNp64WpIBXBA,90,9.1433068,45.4938149,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\tVEDDRHBi5CNp64WpIBXBA_090.jpg,0.21606445,public bench,4,1
+221,X5VS-vPBfxDSYeAH-Htxnw,90,9.0880268,45.4574471,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\X5VS-vPBfxDSYeAH-Htxnw_090.jpg,0.21606445,bench near the curb,4,1
+222,MrM2w0fKTxGgWwFjthVYig,270,9.2053034,45.4504563,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\MrM2w0fKTxGgWwFjthVYig_270.jpg,0.21594238,public bench,4,1
+223,hxvw2Al_wOkZpc9_98IJnQ,270,9.216681169,45.44354657,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\hxvw2Al_wOkZpc9_98IJnQ_270.jpg,0.21594238,benches on the sidewalk,4,1
+224,bXuBrvr92OJgiSHzO8tGBw,270,9.1240521,45.5026958,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\bXuBrvr92OJgiSHzO8tGBw_270.jpg,0.21594238,bench near the curb,4,1
+225,T3RDNmZVO8-OqLT4D3Xvjw,90,9.216735284,45.43674335,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\T3RDNmZVO8-OqLT4D3Xvjw_090.jpg,0.21582031,benches along the street,4,1
+226,M0Sm-Yku_tteKiwXjZ8RAQ,270,9.202383906,45.45342406,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\M0Sm-Yku_tteKiwXjZ8RAQ_270.jpg,0.21582031,benches along the street,4,1
+227,0HHj-wiPiKdey5yPDiC_lg,270,9.212027309,45.47253164,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\0HHj-wiPiKdey5yPDiC_lg_270.jpg,0.21582031,benches on the sidewalk,4,1
+228,tUDYx1MeXjruaq42RGPk3A,90,9.157848033,45.51363107,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\tUDYx1MeXjruaq42RGPk3A_090.jpg,0.21582031,bench near the curb,4,1
+229,nVmC5vPO8zpmgKQDjbTIEg,90,9.185631837,45.47895853,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\nVmC5vPO8zpmgKQDjbTIEg_090.jpg,0.21582031,street benches,4,1
+230,ybodAZEVAsKDr5nYfjYaTg,90,9.198509896,45.47775894,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\ybodAZEVAsKDr5nYfjYaTg_090.jpg,0.21582031,benches on the sidewalk,4,1
+231,yQ7JEiLculauP8ovU1IvpQ,90,9.066838938,45.46234541,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\yQ7JEiLculauP8ovU1IvpQ_090.jpg,0.21569824,bench near the curb,4,1
+232,bNny7gs2L41BW47uocWNug,90,9.2242077,45.4386638,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\bNny7gs2L41BW47uocWNug_090.jpg,0.21569824,benches along the street,4,1
+233,VRGIzOsYqjeb0G1DXgdHng,90,9.2509441,45.4872489,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\VRGIzOsYqjeb0G1DXgdHng_090.jpg,0.21569824,bench near the curb,4,1
+234,Jc2sy1tO6giL2x_ysL7qpw,270,9.0741241,45.4975273,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\Jc2sy1tO6giL2x_ysL7qpw_270.jpg,0.21569824,bench near the curb,4,1
+235,X1ykvjJ8o11bS77u8HUe6w,90,9.119256774,45.48132444,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\X1ykvjJ8o11bS77u8HUe6w_090.jpg,0.21569824,bench near the curb,4,1
+236,1q-AU2qcXzQr8VlTiASzUg,90,9.115940218,45.45989578,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\1q-AU2qcXzQr8VlTiASzUg_090.jpg,0.21569824,bench near the curb,4,1
+237,CWQHAvNvB2EHrY1OHC6CPQ,90,9.179965338,45.45301807,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\CWQHAvNvB2EHrY1OHC6CPQ_090.jpg,0.21557617,public bench,4,1
+238,_SMAnfh0glOtmFdwyz92yA,180,9.2252043,45.4809319,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\_SMAnfh0glOtmFdwyz92yA_180.jpg,0.21557617,benches along the street,4,1
+239,a0Cr-2MbZ3bC9ZKNE0u1qA,90,9.183964,45.5136672,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\a0Cr-2MbZ3bC9ZKNE0u1qA_090.jpg,0.21557617,bench near the curb,4,1
+240,MI-02Lwk6W1_dPou8MTLgg,90,9.196865454,45.4998608,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\MI-02Lwk6W1_dPou8MTLgg_090.jpg,0.21557617,street benches,4,1
+241,sy79p8T7GAOjHldi2Ho-EA,180,9.173442193,45.47578668,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\sy79p8T7GAOjHldi2Ho-EA_180.jpg,0.21557617,bench near the curb,4,1
+242,E-m7PcfPIzbq5a9LOa9IQQ,90,9.089174764,45.46435635,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\E-m7PcfPIzbq5a9LOa9IQQ_090.jpg,0.21557617,bench near the curb,4,1
+243,frk_duL9rzCqChSPYeXN3Q,90,9.145190059,45.48541426,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\frk_duL9rzCqChSPYeXN3Q_090.jpg,0.21557617,bench near the curb,4,1
+244,0H9YRPtEkuX4wsKjsu_5gA,270,9.147971637,45.45035959,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\0H9YRPtEkuX4wsKjsu_5gA_270.jpg,0.2154541,benches along the street,4,1
+245,xTrCGHc88u7D9eZPO3S7YQ,0,9.2395422,45.4351078,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\xTrCGHc88u7D9eZPO3S7YQ_000.jpg,0.2154541,bench near the curb,4,1
+246,QdhvJZDMOAXES0l9S1tVFg,270,9.1607979,45.4583114,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\QdhvJZDMOAXES0l9S1tVFg_270.jpg,0.2154541,benches along the street,4,1
+247,pE0KQxK1UuNMRnhkLmodTg,270,9.207951254,45.48748808,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\pE0KQxK1UuNMRnhkLmodTg_270.jpg,0.2154541,public bench,4,1
+248,Ai4Z3pXk1Li7Fhr5huYoUA,90,9.21092721,45.42506204,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\Ai4Z3pXk1Li7Fhr5huYoUA_090.jpg,0.2154541,bench near the curb,4,1
+249,1lWyIauOjjftmHR5BPrmaA,0,9.198735711,45.46931323,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\1lWyIauOjjftmHR5BPrmaA_000.jpg,0.2154541,street benches,4,1
+250,yg0jB2vHXyB9h7CoUH7WGA,0,9.204901833,45.45388111,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\yg0jB2vHXyB9h7CoUH7WGA_000.jpg,0.2154541,street furniture benches,4,1
+251,xWfeUpq_me2Db2b4Zu6qWA,270,9.2203445,45.4500683,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\xWfeUpq_me2Db2b4Zu6qWA_270.jpg,0.21533203,street furniture benches,4,1
+252,GHQ_yRFEfYY0ZaQHBgD0bA,270,9.25033809,45.46191174,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\GHQ_yRFEfYY0ZaQHBgD0bA_270.jpg,0.21533203,bench near the curb,4,1
+253,sS-DYPl-bciKZxSYo2vcIw,90,9.2644666,45.5136041,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\sS-DYPl-bciKZxSYo2vcIw_090.jpg,0.21533203,bench near the curb,4,1
+254,NxvSq6xNbvJkIdLkMDFkJw,90,9.066118798,45.45708252,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\NxvSq6xNbvJkIdLkMDFkJw_090.jpg,0.21533203,bench near the curb,4,1
+255,_4nxuBpmJS4TaCF3xeM3yg,180,9.1436586,45.4879165,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\_4nxuBpmJS4TaCF3xeM3yg_180.jpg,0.21533203,bench near the curb,4,1
+256,C9lzsuAVl_SmUG6Bv3hgBw,270,9.154470848,45.45184781,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\C9lzsuAVl_SmUG6Bv3hgBw_270.jpg,0.21533203,bench near the curb,4,1
+257,ws99Imhfh69o8KqHefLYlQ,270,9.172233895,45.5316305,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\ws99Imhfh69o8KqHefLYlQ_270.jpg,0.21520996,bench near the curb,4,1
+258,f7FSbukaXo47Vie_xjJIOA,0,9.182117509,45.45388749,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\f7FSbukaXo47Vie_xjJIOA_000.jpg,0.21520996,street benches,4,1
+259,m5JnVsEFL_E504XU9bK2gA,90,9.1381627,45.4716274,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\m5JnVsEFL_E504XU9bK2gA_090.jpg,0.21508789,a bench on the sidewalk,4,1
+260,hIRmOwWo8EvFpMOQ9hRWOw,90,9.1585122,45.5131909,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\hIRmOwWo8EvFpMOQ9hRWOw_090.jpg,0.21508789,public bench,4,1
+261,dt0DXwsBtP8d_LAwfHztVw,90,9.19563677,45.50772753,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\dt0DXwsBtP8d_LAwfHztVw_090.jpg,0.21508789,benches along the street,4,1
+262,6x1sD1P77HLE6P8aCm7jIw,90,9.127164385,45.49468399,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\6x1sD1P77HLE6P8aCm7jIw_090.jpg,0.21508789,benches along the street,4,1
+263,x0BMGgOcQc29ihfx0Oir8g,0,9.1853221,45.4579508,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\x0BMGgOcQc29ihfx0Oir8g_000.jpg,0.21508789,street benches,4,1
+264,wDmDdGI07jZhZSeXxV4Olw,270,9.183181757,45.43948917,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\wDmDdGI07jZhZSeXxV4Olw_270.jpg,0.21508789,benches along the street,4,1
+265,xua8570ebkVKT_CoQRZsRA,270,9.162442002,45.48184977,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\xua8570ebkVKT_CoQRZsRA_270.jpg,0.21508789,benches along the street,4,1
+266,5ugBKnG36dYs8894vnKobA,270,9.200085,45.5052569,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\5ugBKnG36dYs8894vnKobA_270.jpg,0.21496582,bench near the curb,4,1
+267,OAwUhpRv5oWUlTnbyFj0EQ,90,9.192405805,45.48676339,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\OAwUhpRv5oWUlTnbyFj0EQ_090.jpg,0.21484375,street benches,4,1
+268,Im8jPgXyKwNwm-HAZbwfpg,270,9.2157669,45.4521854,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\Im8jPgXyKwNwm-HAZbwfpg_270.jpg,0.21484375,benches on the sidewalk,4,1
+269,OyFey7TwV5GrhicRry6oiA,270,9.2291802,45.4823121,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\OyFey7TwV5GrhicRry6oiA_270.jpg,0.21484375,street benches,4,1
+270,Z_wT2ry7Qouus-tbofB8TQ,270,9.2439361,45.4614124,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\Z_wT2ry7Qouus-tbofB8TQ_270.jpg,0.21484375,street furniture benches,4,1
+271,pHObFplxufAhA4mYo0P0SA,90,9.1515121,45.4783403,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\pHObFplxufAhA4mYo0P0SA_090.jpg,0.21484375,benches along the street,4,1
+272,OrEtF7HaNMiu2FGeEeaCxA,270,9.091793869,45.45566186,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\OrEtF7HaNMiu2FGeEeaCxA_270.jpg,0.21484375,bench near the curb,4,1
+273,HoooEnRWtYrIfNO3plsZfQ,270,9.2001341,45.4658684,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\HoooEnRWtYrIfNO3plsZfQ_270.jpg,0.21484375,street benches,4,1
+274,KYI0Dnw-S5XC8Fqmy06GmQ,270,9.213872858,45.51675072,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\KYI0Dnw-S5XC8Fqmy06GmQ_270.jpg,0.21484375,public bench,4,1
+275,49LllN23RpTrbIU1q-PytQ,0,9.1831176,45.4733298,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\49LllN23RpTrbIU1q-PytQ_000.jpg,0.21472168,street benches,4,1
+276,xX1x2vtaQptrt62uonViqQ,90,9.1481841,45.5072879,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\xX1x2vtaQptrt62uonViqQ_090.jpg,0.21472168,bench near the curb,4,1
+277,tnguRTCRwSEG6WM861Lx6g,270,9.100057473,45.48042334,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\tnguRTCRwSEG6WM861Lx6g_270.jpg,0.21472168,bench near the curb,4,1
+278,jFpWsypnENiK1nec0Fwzpw,270,9.18328082,45.43816809,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\jFpWsypnENiK1nec0Fwzpw_270.jpg,0.21472168,street benches,4,1
+279,PWN9OwvGvBgEWSUEkXg8Tg,270,9.201891369,45.4892111,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\PWN9OwvGvBgEWSUEkXg8Tg_270.jpg,0.21472168,benches on the sidewalk,4,1
+280,xGngaov8CPJO6fsjxy_7_g,90,9.201060636,45.46394487,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\xGngaov8CPJO6fsjxy_7_g_090.jpg,0.21472168,public bench,4,1
+281,zKC3u_9M70BwdqaCcm88rQ,180,9.1728286,45.4760541,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\zKC3u_9M70BwdqaCcm88rQ_180.jpg,0.21459961,street benches,4,1
+282,XGvnJRkrbcRciFSymB4v5w,90,9.252552588,45.43233749,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\XGvnJRkrbcRciFSymB4v5w_090.jpg,0.21459961,bench near the curb,4,1
+283,fRn12FxkDkVniZmjgC82Qw,270,9.2351389,45.50127601,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\fRn12FxkDkVniZmjgC82Qw_270.jpg,0.21459961,benches on the sidewalk,4,1
+284,KpuXfSxVk-ODbQhnwJ1zQA,270,9.181382058,45.4754071,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\KpuXfSxVk-ODbQhnwJ1zQA_270.jpg,0.21459961,benches on the sidewalk,4,1
+285,hNCdRlduvAwgQc7L3v3TfQ,90,9.198073362,45.51222163,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\hNCdRlduvAwgQc7L3v3TfQ_090.jpg,0.21459961,street benches,4,1
+286,sSLkONd3vuw63hji7T1Q0Q,90,9.199967323,45.51947001,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\sSLkONd3vuw63hji7T1Q0Q_090.jpg,0.21459961,public bench,4,1
+287,axaCyfHQpRFVhK36qOSlcQ,270,9.223956374,45.45818082,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\axaCyfHQpRFVhK36qOSlcQ_270.jpg,0.21459961,bench near the curb,4,1
+288,MpPRLtCKFrge-4bW9n6Tqw,90,9.124198555,45.46810021,D:\AAG\Milano_SVI\lang2img\0_Dataprocessing\views_4\MpPRLtCKFrge-4bW9n6Tqw_090.jpg,0.21447754,street benches,4,1

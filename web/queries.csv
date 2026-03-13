@@ -1,0 +1,2 @@
+query_id,query_text,query_type,instruction_text
+Q01,"a safe, quiet place with lots of greenery where people can read outdoors",abstract_compositional,"Please judge the image only based on visible cues in the image."
