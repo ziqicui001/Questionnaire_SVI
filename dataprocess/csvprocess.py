@@ -1,4 +1,4 @@
-#python D:\AAG\Questionnaire_SVI\dataprocess\csvprocess.py
+# python D:\AAG\Questionnaire_SVI\dataprocess\csvprocess.py
 
 import pandas as pd
 from pathlib import Path
@@ -60,8 +60,7 @@ def main():
     if len(method_cols) == 0:
         raise ValueError("未找到任何方法标记列，例如 top_20_M1, top_20_M2 ...")
 
-    # 如果你只想保留至少被一个方法命中的图像，可以加这个过滤
-    # 例如某一行 top_20_M1~M5 全是空或0，则去掉
+    # 只保留至少被一个方法命中的图像
     mask = df[method_cols].fillna(0).astype(str).apply(
         lambda row: any(v.strip() not in ["", "0", "0.0"] for v in row),
         axis=1
@@ -73,6 +72,9 @@ def main():
     df["query_text"] = query_text
     df["image_path"] = df["best_view_path"]
     df["image_file_name"] = df["best_view_path"].apply(lambda x: Path(str(x)).name)
+
+    # 新增 web_path：相对路径，供网页端使用
+    df["web_path"] = df["image_file_name"].apply(lambda x: f"images/{x}")
 
     # 生成 record_id
     df["record_id"] = [
@@ -95,6 +97,7 @@ def main():
         "best_yaw",
         "image_path",
         "image_file_name",
+        "web_path",
     ] + method_cols + [
         "best_view_path",
     ]

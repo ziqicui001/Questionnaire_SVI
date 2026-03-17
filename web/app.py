@@ -202,14 +202,26 @@ def render_single_choice(question_id, question_text, options, current_row):
 
 def resolve_image_path(current_row, items_df_columns):
     """
-    优先使用 web_path（适合项目内 images/ 相对路径）
-    其次回退到 image_path（兼容旧版本）
+    优先级：
+    1. web_path
+    2. image_file_name -> BASE_DIR/images/filename
+    3. image_path（仅本地兼容）
     """
+    # 1) 优先 web_path
     if "web_path" in items_df_columns:
         web_path = current_row.get("web_path")
         if pd.notna(web_path) and str(web_path).strip() != "":
             return BASE_DIR / str(web_path)
 
+    # 2) 如果没有 web_path，但有 image_file_name，则去项目内 images 文件夹找
+    if "image_file_name" in items_df_columns:
+        image_file_name = current_row.get("image_file_name")
+        if pd.notna(image_file_name) and str(image_file_name).strip() != "":
+            candidate = BASE_DIR / "images" / str(image_file_name)
+            if candidate.exists():
+                return candidate
+
+    # 3) 最后才回退到原始本地绝对路径
     if "image_path" in items_df_columns:
         raw_path = current_row.get("image_path")
         if pd.notna(raw_path) and str(raw_path).strip() != "":
