@@ -14,7 +14,7 @@ import streamlit as st
 # 这样本地、别的电脑、云端部署都更稳
 # =========================
 BASE_DIR = Path(__file__).resolve().parent
-ITEMS_CSV = BASE_DIR / "test02.csv"
+ITEMS_CSV = BASE_DIR / "annotation_items.csv"
 QUERIES_CSV = BASE_DIR / "queries.csv"
 QUESTIONS_CSV = BASE_DIR / "question.csv"
 RESULTS_DIR = BASE_DIR / "results"
